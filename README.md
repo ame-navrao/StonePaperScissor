@@ -7,10 +7,6 @@
 3. Matplotlib
 and more ...
 
-## Output 👀
-Comming Soon ...
-
-
 # Steps to Run 😉
 
 1. Clone or download this repository.
