@@ -17,8 +17,8 @@ and more ...
 
 # Made By:
 
-### [Preet](https://github.com/Preet-Mehta)
 ### [Parth](https://github.com/Parth-2000)
+### [Preet](https://github.com/Preet-Mehta)
 ### [Het](https://github.com/hetgandhi781)
 ### [Deep](https://github.com/deep1358)
 
