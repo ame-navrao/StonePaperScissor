@@ -12,7 +12,7 @@ and more ...
 1. Clone or download this repository.
 2. Open the folder in your editor.
 3. Download required packages. ( * pip install [pakage-name] || conda install [package-name])
-4. Write "npm start" in terminal. (And that's All 😀, Your website will be started in the Browser.
+4. Write "python main.py" in terminal. (And that's All 😀, Your website will be started in the Browser.
 
 
 # Made By:
